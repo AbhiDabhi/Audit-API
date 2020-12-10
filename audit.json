@@ -1,0 +1,58 @@
+{
+    "RECORDS": [
+        {
+            "id": "f895c9dd-94c2-4f97-8d25-c27f695d051a",
+            "created": "25/11/2019 19:58:40.183337+00",
+            "email": "test@imagineeverything.com",
+            "risk": "",
+            "risk_level": "0",
+            "meta": "{\"content\": \"https://www.abcya.com/\", \"user_agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36\", \"ip_external\": \"172.10.10.14\", \"ip_internal\": [\"10.10.10.10\"], \"browser_uuid\": \"116540447491807533196\"}",
+            "active": "t"
+        },
+        {
+            "id": "a0691552-3268-4297-b6df-f9bd7e349272",
+            "created": "25/11/2019 19:53:36.600218+00",
+            "email": "test@imagineeverything.com",
+            "risk": "",
+            "risk_level": "0",
+            "meta": "{\"content\": \"https://www.pubg.com/\", \"user_agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36\", \"ip_external\": \"172.10.10.14\", \"ip_internal\": [\"10.10.10.10\"], \"browser_uuid\": \"105974343207421462009\"}",
+            "active": "t"
+        },
+        {
+            "id": "e3204956-a894-421e-a81f-47f1b6749d9f",
+            "created": "25/11/2019 10:40:33.488996+00",
+            "email": "test@imagineeverything.com",
+            "risk": "",
+            "risk_level": "0",
+            "meta": "{\"content\": \"https://www.orient-watch.com/\", \"user_agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36\", \"ip_external\": \"172.10.10.14\", \"ip_internal\": [\"10.10.10.10\"], \"browser_uuid\": \"107069772419531867646\"}",
+            "active": "t"
+        },
+        {
+            "id": "e956f403-4b2f-4dfb-a9ff-9d4060539c92",
+            "created": "25/11/2019 17:56:45.995795+00",
+            "email": "test@imagineeverything.com",
+            "risk": "",
+            "risk_level": "0",
+            "meta": "{\"content\": \"https://krunker.io/\", \"user_agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36\", \"ip_external\": \"172.10.10.14\", \"ip_internal\": [\"10.10.10.10\"], \"browser_uuid\": \"104695489389461483700\"}",
+            "active": "t"
+        },
+        {
+            "id": "500306e9-e346-40e2-89f6-c584c27118bb",
+            "created": "25/11/2019 18:13:04.368551+00",
+            "email": "test@imagineeverything.com",
+            "risk": "",
+            "risk_level": "0",
+            "meta": "{\"content\": \"https://www.google.ca/drive/\", \"user_agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36\", \"ip_external\": \"172.10.10.14\", \"ip_internal\": [\"10.10.10.10\"], \"browser_uuid\": \"108604925010355650551\"}",
+            "active": "t"
+        },
+        {
+            "id": "d1eb26aa-61ea-43cc-bed7-2ef2c49957eb",
+            "created": "25/11/2019 18:40:55.013415+00",
+            "email": "test@imagineeverything.com",
+            "risk": "",
+            "risk_level": "0",
+            "meta": "{\"content\": \"https://redd.it/b7uhhf\", \"user_agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36\", \"ip_external\": \"172.10.10.14\", \"ip_internal\": [\"10.10.10.10\"], \"browser_uuid\": \"110970512653254015571\"}",
+            "active": "t"
+        }
+    ]
+}
